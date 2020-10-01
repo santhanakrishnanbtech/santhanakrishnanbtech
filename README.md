@@ -1,8 +1,7 @@
-### Hi there 👋
-
-![Hey there, I'm SK. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/santhanakrishnanbtech/santhanakrishnanbtech/raw/master/bio.mp4)
+![Hey there, I'm SK. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/santhanakrishnanbtech/santhanakrishnanbtech/raw/master/bio.gif)
 
 <!--
+### Hi there 👋
 **santhanakrishnanbtech/santhanakrishnanbtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
