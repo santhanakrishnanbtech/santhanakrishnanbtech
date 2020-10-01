@@ -1,4 +1,4 @@
-![Hey there, I'm SK. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/santhanakrishnanbtech/santhanakrishnanbtech/raw/master/bio.gif)
+![Hey there, I'm SK. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/santhanakrishnanbtech/santhanakrishnanbtech/blob/main/bio.gif)
 
 <!--
 ### Hi there 👋
