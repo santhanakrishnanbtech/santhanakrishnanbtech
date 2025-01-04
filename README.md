@@ -7,6 +7,16 @@ I'm a DevOps engineer and tech entrepreneur
 [![Email me](https://img.shields.io/badge/EMAIL-ME-red.svg?style=for-the-badge&logo=gmail)](mailto:santhanakrishnanbtech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKED-IN-blue.svg?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/santhanakrishnanbtech)
 
+## Things I work now
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
 ## Some of my projects
 
 * [Mobile22](https://www.indiumsoftware.com/success_stories/mobility-as-a-service-technology-platform-leveraging-aws-services.pdf) - MaaS (Mobility as a Service)
