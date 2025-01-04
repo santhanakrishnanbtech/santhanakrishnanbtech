@@ -7,7 +7,7 @@ I'm a DevOps engineer and tech entrepreneur
 [![Email me](https://img.shields.io/badge/EMAIL-ME-red.svg?style=for-the-badge&logo=gmail)](mailto:santhanakrishnanbtech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKED-IN-blue.svg?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/santhanakrishnanbtech)
 
-## Things I work now
+## Things I work
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
